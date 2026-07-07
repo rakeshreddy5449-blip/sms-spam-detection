@@ -1,3 +1,14 @@
+## 🌐 Project Links
+
+**Live Demo**
+
+https://sms-spam-detection-eqz2jygckwzfqu3xguq6df.streamlit.app/
+
+**GitHub Repository**
+
+https://github.com/rakeshreddy5449-blip/sms-spam-detection
+
+
 # 📩 SMS Spam Detection System
 
 A Machine Learning web application that classifies SMS messages as **Spam** or **Ham** using Natural Language Processing (NLP) and Streamlit.
